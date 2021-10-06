@@ -2,7 +2,7 @@
 
 ## JavaScript and DOM Manipulation
 
-![ufo](images/ufo.jpeg)
+![ufo](UFO-level-1/static/images/ufo.jpeg)
 
 ### Level 1: Automatic Table and Date Search
 
